@@ -3,7 +3,7 @@
   <h1 align='center'>Next JS - Coffe Shop</h1>
 </p>
   <p align="center">
-    <a href="https://bit.ly/coffe-shop-sks">View Demo</a>
+    <a href="https://coffeeshopsks.mochamadrico.xyz/">View Demo</a>
     ·
     <a href="https://github.com/19damah23/coffee-shop/issues">Report Bug</a>
     ·
